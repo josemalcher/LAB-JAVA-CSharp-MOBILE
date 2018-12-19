@@ -8,25 +8,54 @@
 
 ------------
 
-## Lista de Projetos de Estudos/Cursos/Livros
+## Lista de Cursos/Vídeo-aula
 
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
-| **_70%_** | [Curso: Java COMPLETO 2018 Programação Orientada a Objetos +Projetos](https://github.com/josemalcher/udemy-Java_COMPLETO_2018_Programacao_Orientada_a_Objetos_Projetos)  |  CURSO UDEMY |
-| **_60%_** | [Curso: Maratona Java - O maior curso Java em português.](https://github.com/josemalcher/devdojo_maratona-java)  |  CURSO DevDojo |
-| **_60%_** | [Curso: DevDojo - Maratona JSF](https://github.com/josemalcher/devdojo-maratona-jsf)  |  CURSO DevDojo |
-| **_40%_** | [Curso: Plano de Estudo JAVA DEVELOPER](https://github.com/josemalcher/SchoolOfNet-plano-de-estudo-JAVA-DEVELOPER)  |  Curso School of Net |
-| **_100%_**| [Curso: Servlet Parte 1: Fundamentos da programação web Javas](https://github.com/josemalcher/alura-Curso-Servlet-Parte-1-Fundamentos-da-programacao-web-Java)  |  CURSO ALURA |
-| **_0%_**  | [Curso: Servlet parte 2: Autenticação, autorização e o padrão MVC](https://github.com/josemalcher/alura-Curso-Servlet-parte-2-Autenticacao-autorizacao-e-o-padrao-MVC)  |  CURSO ALURA |
-| **_0%_**  | [Curso: JSP Tutorial(en)](https://github.com/josemalcher/Udemy-jsp-tutorial)  |  CURSO UDEMY |
-| **_100%_**| [Curso: ProgramaTche - Servlet JSP](https://github.com/josemalcher/programaTche-Servlet-JSP)  |  CURSO ProgramaTche |
-| **_100%_**| [Curso: ProgramaTche-JSP/JPA](https://github.com/josemalcher/programaTche-CrudJPA)  |  CURSO ProgramaTche |
-| **_0%_**  | [Curso: Formação Desenvolvedor - Java Programe sistemas Web com Spring MVC, JPA e Java](https://github.com/josemalcher/alura-formacao-Desenvolvedor-Java)  |  CURSO ALURA |
-| **_0%_**  | [LIVRO: Apostila do Curso FJ-21 Java para Desenvolvimento Web](https://github.com/josemalcher/apostila-caelum-Java-para-Desenvolvimento-Web)  |  LIVRO CAELUM |
-| **_10%_** | [LIVRO: Java para Web 2ed.](https://github.com/josemalcher/Livro-JavaPraWeb-2)  |  LIVRO JAVA WEB |
-| **_0%_** | [LIVRO: Java Como programar - Deitel 10 ed.](https://github.com/josemalcher/Livro-JAVAComoProgramar-Deitel-10ed)  |  LIVRO JAVA |
-| **_10%_** | [Curso: Desenvolvimento Web com JSF 2](https://github.com/josemalcher/ALGAWORKS-Curso-Desenvolvimento-Web-com-JSF-2)  |  Curso AlgaWorks |
-| **_0%_** | [Curso: JPA e Hibernate além do básico - um projeto completo](https://github.com/josemalcher/ALGAWORKS-Curso-JPA-e-Hibernate-alem-do-basico)  |  Curso AlgaWorks |
+| **_70%_** | [Curso: Java COMPLETO 2018 Programação Orientada a Objetos +Projetos](https://github.com/josemalcher/udemy-Java_COMPLETO_2018_Programacao_Orientada_a_Objetos_Projetos)  |  UDEMY |
+| **_60%_** | [Curso: Maratona Java - O maior curso Java em português.](https://github.com/josemalcher/devdojo_maratona-java)  |  DevDojo |
+| **_60%_** | [Curso: DevDojo - Maratona JSF](https://github.com/josemalcher/devdojo-maratona-jsf)  |   DevDojo |
+| **_40%_** | [Curso: Plano de Estudo JAVA DEVELOPER](https://github.com/josemalcher/SchoolOfNet-plano-de-estudo-JAVA-DEVELOPER)  |  School of Net |
+| **_100%_**| [Curso: Servlet Parte 1: Fundamentos da programação web Javas](https://github.com/josemalcher/alura-Curso-Servlet-Parte-1-Fundamentos-da-programacao-web-Java)  |   ALURA |
+| **_0%_**  | [Curso: Servlet parte 2: Autenticação, autorização e o padrão MVC](https://github.com/josemalcher/alura-Curso-Servlet-parte-2-Autenticacao-autorizacao-e-o-padrao-MVC)  |   ALURA |
+| **_0%_**  | [Curso: JSP Tutorial(en)](https://github.com/josemalcher/Udemy-jsp-tutorial)  |   UDEMY |
+| **_100%_**| [Curso: ProgramaTche - Servlet JSP](https://github.com/josemalcher/programaTche-Servlet-JSP)  |   ProgramaTche |
+| **_100%_**| [Curso: ProgramaTche-JSP/JPA](https://github.com/josemalcher/programaTche-CrudJPA)  |   ProgramaTche |
+| **_0%_**  | [Curso: Formação Desenvolvedor - Java Programe sistemas Web com Spring MVC, JPA e Java](https://github.com/josemalcher/alura-formacao-Desenvolvedor-Java)  |  ALURA |
+| **_10%_** | [Curso: Desenvolvimento Web com JSF 2](https://github.com/josemalcher/ALGAWORKS-Curso-Desenvolvimento-Web-com-JSF-2)  |   AlgaWorks |
+| **_0%_**  | [Curso: JPA e Hibernate além do básico - um projeto completo](https://github.com/josemalcher/ALGAWORKS-Curso-JPA-e-Hibernate-alem-do-basico)  |  AlgaWorks |
+
+------------
+
+## Livros e Apostilas
+
+| **Status**  | **Nome/Repositório**  | **Obs.**  |
+|---|---|---|
+| **_0%_**  | [Apostila: Curso FJ-21 Java para Desenvolvimento Web](https://github.com/josemalcher/apostila-caelum-Java-para-Desenvolvimento-Web)  |  CAELUM JAVA WEB |
+| **_0%_**  | [LIVRO: Java Como programar - Deitel 10 ed.](https://github.com/josemalcher/Livro-JAVAComoProgramar-Deitel-10ed)  |  JAVA |
+| **_10%_** | [LIVRO: Java para Web 2ed.](https://github.com/josemalcher/Livro-JavaPraWeb-2)  |  JAVA WEB |
+| **_0%_**  | [LIVRO: SOA aplicado Integrando com web services e além](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: Aplicações Java para web com JSF e JPA](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: MundoJ Segurança com Java](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: Aplicacoes Java para a Web Com Jsf E Jpa](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: CDI - Integre as dependencias e contextos do seu codigo Java](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: Java EE Aproveite toda a plataforma para construir aplicações](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: REST - Construa APIs inteligentes de maneira simples](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: JSF Eficaz As melhores práticas para o desenvolvedor web Java](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: Spring MVC Domine o principal framework web Java](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: VRaptor Desenvolvimento Ágil para Web com Java](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: Design Patterns com Java Projeto orientado a objetos guiado por padrões](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: Componentes Reutilizáveis em Java com Reflexão e Anotações](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: Java SE 8 Programmer I O guia para sua certificação Oracle Certified Associate](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: Java SE 7 Programmer I O guia para sua certificação Oracle Certified Associate](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: Java 8 Prático Lambdas, Streams e os novos recursos da linguagem](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: JPA Eficaz As melhores práticas de persistência de dados em Java](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: Desbravando Java e Orientação a Objetos Um guia para o iniciante da linguagem - Casa do Codigo](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: Orientação a Objetos Aprenda seus conceitos e suas aplicabilidades de forma efetiva](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: MundoJ Orientação a Objetos](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: MundoJ - Java efetivo - Casa do Codigo](#)  |  Casa do Código |
+| **_0%_**  | [LIVRO: Padrões de arquitetura de aplicações corporativas](#)  |  Martin Fowler |
+
 
 ------------
 
