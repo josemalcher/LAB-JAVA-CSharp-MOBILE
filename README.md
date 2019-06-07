@@ -12,7 +12,7 @@
 
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
-| **_70%_** | [Java COMPLETO 2018 Programação Orientada a Objetos +Projetos](https://github.com/josemalcher/udemy-Java_COMPLETO_2018_Programacao_Orientada_a_Objetos_Projetos)  |  UDEMY |
+| **_40%_** | [Java COMPLETO 2019 Programação Orientada a Objetos +Projetos](https://github.com/josemalcher/udemy-Java_COMPLETO_2018_Programacao_Orientada_a_Objetos_Projetos)  |  UDEMY |
 | **_60%_** | [Maratona Java - O maior curso Java em português.](https://github.com/josemalcher/devdojo_maratona-java)  |  DevDojo |
 | **_60%_** | [DevDojo - Maratona JSF](https://github.com/josemalcher/devdojo-maratona-jsf)  |   DevDojo |
 | **_40%_** | [Plano de Estudo JAVA DEVELOPER](https://github.com/josemalcher/SchoolOfNet-plano-de-estudo-JAVA-DEVELOPER)  |  School of Net |
@@ -63,6 +63,6 @@
 
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
-| **_MAT_** | [80 Questões resolvidas da disciplina Linguagem de Programação e Orientação à Objetos](https://github.com/josemalcher/80QuestoesJava)  | IFPA  |
+| **_*_** | []()  |   |
 
 ------------
