@@ -37,7 +37,10 @@ Index com material de **JAVA**, **C#**,  **Mobile**
 | **Status**  | **Nome/Repositório**  | **Obs.**  |
 |---|---|---|
 | **_40%_** | [Java COMPLETO 2019 Programação Orientada a Objetos +Projetos](https://github.com/josemalcher/udemy-Java_COMPLETO_2018_Programacao_Orientada_a_Objetos_Projetos)  |  UDEMY |
-| **_00%_** | [C# COMPLETO 2020 Programação Orientada a Objetos + Projetos](https://github.com/josemalcher/Csharp-COMPLETO-2020-Programacao-Orientada-a-Objetos_Projetos)  |  UDEMY |
+| **_10%_** | [C# COMPLETO 2020 Programação Orientada a Objetos + Projetos](https://github.com/josemalcher/Csharp-COMPLETO-2020-Programacao-Orientada-a-Objetos_Projetos)  |  UDEMY |
+| **_00%_** | [Desenvolvedor.io - Iniciando com ASP.NET Core](https://github.com/josemalcher/Desenvolvedor.io-IniciandoComASP.NETCore)  |  Desenvolvedor.io |
+| **_00%_** | [Desenvolvedor.io - Fundamentos de Arquitetura de Software](https://github.com/josemalcher/Desenvolvedor.io-Fundamentos-de-Arquitetura-de-Software)  |  Desenvolvedor.io |
+| **_00%_** | [Desenvolvedor.io - Modelagem de Domínios Ricos](https://github.com/josemalcher/Desenvolvedor.io-Modelagem-de-Dominios-Ricos)  |  Desenvolvedor.io |
 | **_60%_** | [Maratona Java - O maior curso Java em português.](https://github.com/josemalcher/devdojo_maratona-java)  |  DevDojo |
 | **_60%_** | [DevDojo - Maratona JSF](https://github.com/josemalcher/devdojo-maratona-jsf)  |   DevDojo |
 | **_40%_** | [Plano de Estudo JAVA DEVELOPER](https://github.com/josemalcher/SchoolOfNet-plano-de-estudo-JAVA-DEVELOPER)  |  School of Net |
